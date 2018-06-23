@@ -3,6 +3,12 @@
 - https://localhost9292.herokuapp.com/
 - https://github.com/yhirano55/hanami-example-app
 
+## 何を作ったか
+
+- ブログ
+- 記事作成→ユーザーモデル作成→認証というステップで進める予定だった。
+- 記事削除まで進めた。
+
 ## 工夫 or 苦労した点
 
 - チュートリアルをなぞっただけではある。

@@ -10,6 +10,10 @@ localhost9292/hanami.rb
 
 `#localhost9292`
 
+## Hanamiのチュートリアル
+
+http://hanamirb.org/guides/1.2/getting-started/
+
 ## アジェンダ
 
 1. 自己紹介 (13:00〜13:15)

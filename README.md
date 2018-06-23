@@ -1,4 +1,4 @@
-# hanami
+# hanami.rb
 
 https://localhost.connpass.com/event/90243/
 

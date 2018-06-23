@@ -27,6 +27,14 @@
   end
 ```
 
+- チュートリアルにない、Show, Destroyを実装したら何となくフィーリングがつかめてきた。
+
+```
+1. bundle exec hanami generate action web articles#show
+2. コントローラ実装（Repository操作→インスタンス変数セット→expose or 処理→ステータスコード返す）
+3. viewを実装
+```
+
 ## Hanamiについて
 
 触りレベルの触れ方なので浅いのですが。

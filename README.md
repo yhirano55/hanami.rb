@@ -2,6 +2,10 @@
 
 https://localhost.connpass.com/event/90243/
 
+## リポジトリ
+
+localhost9292/hanami.rb
+
 ## アジェンダ
 
 1. 自己紹介 (13:00〜13:15)

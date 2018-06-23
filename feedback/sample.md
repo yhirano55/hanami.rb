@@ -3,6 +3,10 @@
 - application url
 - github repository url
 
+## 何を作ったか?
+
+- TODO（どういう手順で進めようとしたかなど思考の過程を書いていただけると :pray:）
+
 ## 工夫 or 苦労した点
 
 - TODO

@@ -13,3 +13,7 @@ https://localhost.connpass.com/event/90243/
     - 適当に会話しながら進めてください
 3. 各自発表 (16:45〜17:45)
     - 成果物のデモ・感想の共有（[雛形](https://github.com/localhost9292/hanami.rb/blob/master/feedback/sample.md)をコピーして、PRを送ってください）
+
+## Twitterのハッシュタグ
+
+`#localhost`

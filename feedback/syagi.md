@@ -1,7 +1,7 @@
 ## 成果物
 
-- application url
-- github repository url
+- application Application error :innocent:
+- github repository https://github.com/syagi/bookshelf
 
 ## 何を作ったか?
 
